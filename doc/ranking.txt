@@ -1,0 +1,7 @@
+Jairo,600
+Jairo2,1050
+Jairo3,1200
+JAiro4,3300
+JAiro5,1500
+Jairo6,1500
+Jairo,585

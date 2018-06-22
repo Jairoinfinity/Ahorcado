@@ -1,0 +1,10 @@
+1,Animal,tiburon,bufalo,gusano,caracol,mosquito,pulpo,rana,hipopotamo,avispa,zebra
+2,Pais,holanda,suecia,rusia,polonia,dinamarca,israel,argentina,brasil,venezuela,colombia
+3,Color,rojo,rosa,amarillo,verde,azul,violeta,naranja,marron,gris,negro
+4,Videojuego,hitman,fallout,skyrim,motogp,battlefield,minecraft,arma,destiny,doom,unreal
+5,Instrumento,guitarra,violin,piano,trompeta,bateria,bajo,flauta,acordeon,arpa,triangulo
+6,Idioma,chino,español,ingles,hindi,arabe,portugues,bengali,ruso,japones,panyabi
+7,Comida,arroz,tomate,chocolate,leche,pizza,hamburguesa,lechuga,ternera,huevo,patata
+8,Flor,hortensia,lirio,rudbeckia,lantana,orquidea,adelfa,narciso,dragoneta,dedalera,crisantemo
+9,Arbol,baobab,pino,bayan,tule,roble,catalpa,jacaranda,bauhina,almendro,melocotonero
+10,Capital,madrid,paris,londres,tokio,roma,amsterdam,berlin,atenas,bruselas,lima
